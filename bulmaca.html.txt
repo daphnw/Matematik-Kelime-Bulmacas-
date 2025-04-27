@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kelime Bulmaca</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+      background-color: #f0f0f0;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+      margin-top: 20px;
+    }
+    ul {
+      text-align: left;
+      display: inline-block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Kelime Bulmaca</h1>
+
+  <ul>
+    <li>1. ÜÇ</li>
+    <li>2. ALTI, EKSİ ALTI</li>
+    <li>3. BİLEŞKE</li>
+    <li>4. YEDİ, EKSİ ÜÇ</li>
+    <li>5. YOKTUR</li>
+    <li>6. DİKÜÇGEN</li>
+    <li>7. NEGATİF</li>
+    <li>8. TANIMSIZ</li>
+    <li>9. YÜZ YİRMİ BEŞ</li>
+    <li>10. BİR BÖLÜ İKİ</li>
+    <li>11. YEDİGEN</li>
+    <li>12. İKİYÖNLÜ</li>
+    <li>13. BİLEŞKE</li>
+    <li>14. TANIMSIZ</li>
+    <li>15. EKSİ İKİ</li>
+  </ul>
+
+  <img src=\"7bbc9e08-6e7e-4e03-8736-debd0dedb878.png\" alt=\"Kelime Bulmaca\">
+
+</body>
+</html>
